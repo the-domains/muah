@@ -1,0 +1,28 @@
+name: MUAH
+favicon: null
+layout_spectrum: 0.057632807875052094
+typography_spectrum: 0.31123923510313034
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.1861928878352046
+  lightness: 0.2954308541957289
+  saturation: 0.36052217124961317
+  rhythmicContrast: 0.8535330987069756
+purpose: []
